@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "Calc.",
+  "base_artist": "伊東歌詞太郎",
+  "createdAt": "2026-02-13T11:38:33.361163Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "calc. - Piano Live Version",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/01_calc._-_Piano_Live_Version_NANO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Calc. (feat. 星乃一歌&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/02_Calc._(feat._星乃一歌&日野森志歩&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Calc.",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/03_Calc._Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Calc.",
+      "artist": "ジミーサムP",
+      "has_synced": true,
+      "path": "select/04_Calc._ジミーサムP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Calc Pe Suflete",
+      "artist": "randi",
+      "has_synced": true,
+      "path": "select/05_Calc_Pe_Suflete_randi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Calc Lecture Girl",
+      "artist": "I Voted for Kodos",
+      "has_synced": true,
+      "path": "select/06_Calc_Lecture_Girl_I_Voted_for_Kodos.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Calc. ～Piano Live Version～",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/07_Calc._~Piano_Live_Version~_nano.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Calc.",
+      "artist": "Bluey ブルー子",
+      "has_synced": true,
+      "path": "select/08_Calc._Bluey_ブルー子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Calc.",
+      "artist": "ジミーサムP feat. 鹿乃",
+      "has_synced": true,
+      "path": "select/09_Calc._ジミーサムP_feat._鹿乃.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "calc.~Piano Live Version~",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/10_calc.~Piano_Live_Version~_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Calc. (feat. 星乃一歌&日野森志歩&初音ミク)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/11_Calc._(feat._星乃一歌&日野森志歩&初音ミク)_Leo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Calc.",
+      "artist": "Jimmysam-P",
+      "has_synced": true,
+      "path": "select/12_Calc._Jimmysam-P.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Calc.",
+      "artist": "Ito Kashitaro",
+      "has_synced": true,
+      "path": "select/13_Calc._Ito_Kashitaro.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Calc.",
+      "artist": "Kashitaro Ito",
+      "has_synced": true,
+      "path": "select/14_Calc._Kashitaro_Ito.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Calc.",
+      "artist": "りぶ",
+      "has_synced": true,
+      "path": "select/15_Calc._りぶ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Calc.",
+      "artist": "Leo/need feat. 星乃一歌&日野森志歩&初音ミク",
+      "has_synced": true,
+      "path": "select/16_Calc._Leo_need_feat._星乃一歌&日野森志歩&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Calc. (feat. 星乃一歌&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/17_Calc._(feat._星乃一歌&日野森志歩&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Calc.",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_Calc._初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Calc.",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_02_Calc._初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Calc.",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_03_Calc._初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Calc.",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_04_Calc._初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Calc.",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_05_Calc._初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Calc.",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_06_Calc._初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Calc.",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_07_Calc._初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Calc.",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_08_Calc._初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Calc.",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_09_Calc._初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Calc.",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_10_Calc._初音ミク.txt"
+    }
+  ]
+}
